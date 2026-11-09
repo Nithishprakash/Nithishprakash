@@ -4,7 +4,7 @@ Computer Science and Engineering student at R.V. College of Engineering (2025–
 
 ## Technical Skills
 * **Languages:** C, C++, Python, Metal Shading Language, ARM64 Assembly
-* **Systems & Graphics:** Apple Metal (Metal C++), Mach-O internals
+* **Systems & Compute:** Apple Metal (Metal C++), Mach-O internals
 * **Hardware & Embedded:** Embedded Systems (ESP32, Arduino), Signal Acquisition (AD8232, ADS1115, INA333), UAV & Robotics Prototyping (IMU, ESC, Power), 3D CAD (Autodesk Fusion)
 
 ## Featured Projects
