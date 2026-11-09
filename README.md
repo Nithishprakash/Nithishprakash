@@ -12,10 +12,9 @@ Computer Science and Engineering student at R.V. College of Engineering (2025–
 * **[Autonomous UAV Prototype](https://github.com/Nithishprakash/optical-flow-uav):** (In Progress) Developing a custom drone utilizing optical flow-based navigation, benchmarked against ISRO competition specifications.
 
 ## Achievements
-* **1st Runner-Up** – Computer Vision Hackathon, RVCE
-* **1st Runner-Up** – IEEE Robotrix Hackathon, NITK Surathkal
-* **Rapid Prototyping** – Built a Wi-Fi-controlled motorized rover within a 2-hour window at the Amazon Development Center.
+* **1st Runner-Up** – [Computer Vision Hackathon, RVCE](https://lnkd.in/p/dW3iaSfR)
+* **1st Runner-Up** – [IEEE Robotrix Hackathon, NITK Surathkal](https://lnkd.in/p/d4UkUG6X)
 
 ## Contact
-* **LinkedIn:** https://www.linkedin.com/in/nithish-prakash-84ab18202/
+* **LinkedIn:** [nithish-prakash](https://www.linkedin.com/in/nithish-prakash-84ab18202/)
 * **Email:** nithishprakashnp@gmail.com
